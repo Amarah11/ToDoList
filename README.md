@@ -1,4 +1,4 @@
-# Проектная работа "ToDoList"
+# ToDoList
 
 Стек: HTML, SCSS, TS, Webpack
 
